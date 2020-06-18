@@ -1,8 +1,7 @@
 package com.saira.alumnieventapp.service;
 
-import com.saira.event_app.entity.Event;
-import com.saira.event_app.exception.EventException;
-import com.saira.event_app.repository.EventRepository;
+import com.saira.alumnieventapp.entity.Event;
+import com.saira.alumnieventapp.repository.EventRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

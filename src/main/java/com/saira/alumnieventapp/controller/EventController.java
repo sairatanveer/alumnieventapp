@@ -1,12 +1,7 @@
 package com.saira.alumnieventapp.controller;
-
-
 import com.saira.alumnieventapp.entity.Event;
 import com.saira.alumnieventapp.service.EventService;
 import com.saira.alumnieventapp.service.ValidationErrorService;
-import com.saira.event_app.entity.Event;
-import com.saira.event_app.service.EventService;
-import com.saira.event_app.service.ValidationErrorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
